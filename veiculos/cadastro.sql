@@ -42,7 +42,7 @@ CREATE TABLE IF NOT EXISTS `cadastro` (
 --
 
 INSERT INTO `cadastro` (`id`, `nome`, `marca`, `ano`, `Valor_venda`) VALUES
-(9, 'ewqewq', 'ewqewq', 1231, '32131.00');
+(9, 'Corsa', 'Chevrolet', 2003, '32131.00');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
